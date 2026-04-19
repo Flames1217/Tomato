@@ -1,18 +1,18 @@
 {
 	"head": {
-		"title": "小暮笙",
+		"title": "三千焱",
 		"description": "Author:SimonAKing,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "小暮笙",
+		"title": "三千焱",
 		"subtitle": "一个致力于Python满足需求的开源者",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "小暮笙",
+		"name": "三千焱",
 		"signature": "Debuging Life",
 		"avatar": {
 			"link": "assets/avatar.jpg",
